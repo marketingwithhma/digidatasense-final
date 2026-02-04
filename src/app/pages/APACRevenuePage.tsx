@@ -1,4 +1,4 @@
-import logo from "figma:asset/0dfcfa5efd50c12cf91e3ba5f8e327bdf3d20a44.png";
+import logo from "/logo.png";
 import { Link } from "react-router-dom";
 import { WhatWeDo } from "../components/WhatWeDo";
 import { HowItWorks } from "../components/HowItWorks";

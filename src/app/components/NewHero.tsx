@@ -1,4 +1,4 @@
-import logo from "figma:asset/0dfcfa5efd50c12cf91e3ba5f8e327bdf3d20a44.png";
+import logo from "/logo.png";
 import { motion, AnimatePresence } from "motion/react";
 import { Link } from "react-router-dom";
 import { useState, useEffect } from "react";
